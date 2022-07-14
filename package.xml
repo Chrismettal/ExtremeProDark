@@ -5,7 +5,7 @@
   <version>1.0.0</version>
   <maintainer email="https://github.com/MisterMakerNL">Chris Hennes</maintainer>
   <license file="LICENSE">GPLv3</license>
-  <url type="repository" branch="main">https://github.com/MisterMakerNL</url>
+  <url type="repository" branch="main">https://github.com/chrismettal/ExtremeProDark</url>
   <icon>resources/icons/ExtremeProDark.svg</icon>
 
   <content>
